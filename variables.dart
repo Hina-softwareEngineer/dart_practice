@@ -51,12 +51,12 @@ void main() {
 //   status=!(abc==20);
 //   print(status);
   
-  var a=210;
-  var b=102;
-  if (a>b){
+  var m=210;
+  var n=102;
+  if (m>n){
 
   print('a > b');}
-  else if (b>a){
+  else if (m>n){
 
   print("b>a");}
   else{
